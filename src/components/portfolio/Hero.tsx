@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import profile from "@/assets/profile.png";
+import profile from "../../assets/profile.png";
 import { ArrowRight, Download, Github, Linkedin, Mail } from "lucide-react";
 
 export function Hero() {
